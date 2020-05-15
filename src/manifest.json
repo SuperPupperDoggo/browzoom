@@ -3,7 +3,7 @@
 
   "name": "Browzoom",
   "version": "0.1.0",
-  "description": "Automatically show the join from browser button on zoom",
+  "description": "Automatically show the 'Join from browser' option on Zoom",
   "icons": { "16": "browzoom-16.png",
            "48": "browzoom-48.png",
           "128": "browzoom-128.png" },
